@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from './home.component';","map":{"version":3,"names":[],"sources":["C:\\Users\\Miyuki\\Angular-Auth-Boilerplate\\angular-21-boilerplate\\src\\app\\home\\index.ts"],"sourcesContent":["export * from './home.component';"],"mappings":"AAAA,cAAc,kBAAkB","ignoreList":[]},"metadata":{},"sourceType":"module","externalDependencies":[]}
